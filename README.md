@@ -12,9 +12,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Screenshot 2: Features Section
 ![Features Section](./assests/2.png)
 ### Screenshot 2: Log in Page
-![Features Section](./assests/3.png)
-### Screenshot 2: Card Page
 ![Features Section](./assests/4.png)
+### Screenshot 2: Card Page
+![Features Section](./assests/3.png)
 
 ## Available Scripts
 
