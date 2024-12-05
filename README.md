@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Home Page](./assets/images/1.png)
 
 ### Screenshot 2: Features Section
-![Features Section](./assets/2.png)
+![Features Section](./assests/2.png)
 
 
 ## Available Scripts
