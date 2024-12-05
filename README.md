@@ -7,11 +7,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Screenshots
 
 ### Screenshot 1: Home Page
-![Home Page](./assets/images/1.png)
+![Home Page](./assests/1.png)
 
 ### Screenshot 2: Features Section
 ![Features Section](./assests/2.png)
-
+### Screenshot 2: Log in Page
+![Features Section](./assests/3.png)
+### Screenshot 2: Card Page
+![Features Section](./assests/4.png)
 
 ## Available Scripts
 
